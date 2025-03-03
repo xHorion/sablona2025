@@ -63,7 +63,7 @@
         <h4>Kto sme</h4>
         <p>Laboris duis ut est fugiat et reprehenderit magna labore aute.</p>
         <p>Laboris duis ut est fugiat et reprehenderit magna labore aute.</p>
-        <p>Laboris duis ut est fugiat et reprehenderit magna labore aute.</p>
+        <p>Remake pre branch projekt</p>
       </div>
       <div class="col-25 text-left">
         <h4>Kontaktujte nás</h4>
