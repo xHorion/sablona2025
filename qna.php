@@ -60,7 +60,7 @@
   <footer class="container bg-dark text-white">
     <div class="row">
       <div class="col-25">
-        <h4>Kto sme</h4>
+        <h4>Kto smessss</h4>
         <p>Laboris duis ut est fugiat et reprehenderit magna labore aute.</p>
         <p>Laboris duis ut est fugiat et reprehenderit magna labore aute.</p>
         <p>Remake pre branch projekt</p>
